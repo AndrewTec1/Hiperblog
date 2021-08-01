@@ -1,0 +1,5 @@
+Prove the Andres Soto learning code 
+
+the first steps in JS
+
+whit git and github 
