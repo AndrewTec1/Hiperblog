@@ -4,3 +4,5 @@ the first steps in git
 this prove the comands fuction XD
 
 whit git and github 
+
+this file is only serched in git 
